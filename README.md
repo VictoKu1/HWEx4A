@@ -8,7 +8,7 @@ A project with step-by-step scenes illustrating some of the formal elements of g
 
 Text explanations are available 
 [here](https://github.com/erelsgl-at-ariel/gamedev-5782) in folder 04.
-
+https://youtu.be/geWZbNKDEiI
 ## Cloning
 To clone the project, you may need to install git lfs first (if it is not already installed):
 
